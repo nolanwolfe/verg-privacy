@@ -10,5 +10,5 @@ Verg does not use analytics, tracking technologies, or third-party data collecti
 If you choose to purchase a premium subscription, payment is processed securely by Apple via the App Store.
 Verg does not receive or store payment information.
 
-If you have questions about this policy, contact us at:
-support@yourdomain.com
+If you have questions about this policy, contact us via the app settings or at:
+support@verg.app
